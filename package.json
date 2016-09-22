@@ -2,7 +2,7 @@
   "name": "handlebars-json",
   "author": "Lloyd Brookes <75pound@gmail.com>",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides access to JSON.stringify from a Handlebars template",
   "repository": "https://github.com/75lb/handlebars-json.git",
   "main": "./lib/handlebars-json.js",
