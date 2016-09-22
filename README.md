@@ -3,7 +3,7 @@
 [![Dependency Status](https://david-dm.org/75lb/handlebars-json.svg)](https://david-dm.org/75lb/handlebars-json)
 
 # handlebars-json
-Provides access to JSON.stringify from a Handlebars template. Useful when templating JSON files, e.g. 
+Provides access to JSON.stringify from a Handlebars template. Useful when templating JSON files, e.g.
 
 ```
 {
@@ -18,3 +18,7 @@ $ npm install handlebars-json --save
 *Mac / Linux users may need to run with `sudo`*.
 
 *documented by [jsdoc-to-markdown](https://github.com/75lb/jsdoc-to-markdown)*
+
+## License
+
+Licensed under [the MIT license](https://opensource.org/licenses/MIT).
